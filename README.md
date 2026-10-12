@@ -1,6 +1,5 @@
 # pagila-hw-Clone
-[![](https://github.com/lucaciaramitaro34/pagila-hw/actions/workflows/tests.yml/badge.svg)](https://github.com/lucaciaramitaro34/pagila-hw/actions?query=workflow%3Atests)
-
+[![tests](https://github.com/lucaciaramitaro34/pagila-hw/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/lucaciaramitaro34/pagila-hw/actions/workflows/tests.yml)
 ## Background
 
 [Pagila](https://github.com/devrimgunduz/pagila) is a standard example database for postgresql.
